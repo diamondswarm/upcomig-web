@@ -1,0 +1,170 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  Box-sizing: border-box;
+}
+.container{
+  width: 1140px;
+  margin: auto;
+}
+.row{
+  width:100%;
+  Float: left;
+}
+#header{
+  background-color: #87509c;
+}
+nav{
+  padding: 10px 0px;
+}
+.logo-part{
+  width: 50%;
+  float: left;
+}
+.menu-part{
+width: 50%;
+  float: left;
+}
+ul{
+text-align: end;
+padding: 10px 0px;
+}
+ul li{
+  list-style: none;
+  display: inline-block;
+}
+ul li a{
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  margin: 0px 10px;
+}
+.header-content{
+  padding: 100px;
+  text-align: center;
+}
+.header-content h1{
+  font-size: 45px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+.header-content button{
+  background-color: orangered;
+  padding: 10px;
+
+}
+
+#service{
+  background-color: #17c2a4;
+  color: white;
+  text-align: center;
+  padding: 75px 0px;
+}
+.writing-part{
+
+}
+.box-part{
+  margin-top: 20px;
+}
+.box{
+  width: 25%;
+  float: left;
+}
+#tim{
+  background-color: #e7f1f8;
+  color: black;
+  text-align: center;
+  padding: 75px 0px;
+}
+.writing-part{
+
+}
+.box-part{
+  margin-top: 20px;
+}
+.box{
+  width: 25%;
+  float: left;
+}
+#SKILLS{
+  background-color: #ffffff;
+  color: black;
+  text-align: center;
+  padding: 75px 0px;
+}
+.writing-part{
+
+}
+.box-part{
+  margin-top: 20px;
+}
+.box{
+  width: 25%;
+  float: left;
+}
+#OUR{
+  background-color: #ffdd99;
+  color: black;
+  text-align: center;
+  padding: 75px 0px;
+}
+.writing-part{
+
+}
+.box-part{
+  margin-top: 20px;
+}
+.box{
+  width: 25%;
+  float: left;
+}
+.rm{
+  width: 40%;
+  float: right;
+  text-align: center;
+}
+#US{
+  background-color: #d74680;
+  color: black;
+  text-align: center;
+  padding: 75px 0px;
+}
+.writing-part{
+
+}
+.box-part{
+  margin-top: 20px;
+}
+.box{
+  width: 25%;
+  float: left;
+}
+.rm{
+  width: 40%;
+  float: right;
+  text-align: center;
+}
+#PROVIDE{
+  background-color: #3c5499;
+  color: black;
+  text-align: center;
+  padding: 75px 0px;
+}
+.writing-part{
+
+}
+.box-part{
+  margin-top: 20px;
+}
+.box{
+  width: 25%;
+  float: left;
+}
+.bx{
+  width: 50%;
+  float: right;
+}
+
+
